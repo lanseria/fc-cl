@@ -1,0 +1,12 @@
+[model]
+det_size = [640, 640]
+det_thresh = 0.5
+rec_score_thresh = 0.3
+
+[performance]
+max_batch_size = 4
+enable_benchmark = true
+
+[output]
+default_format = "table"
+color_scheme = "monokai"
