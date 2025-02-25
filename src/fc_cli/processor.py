@@ -4,7 +4,6 @@ from pathlib import Path
 from typing import Dict, Any
 import time
 
-import cv2
 import numpy as np
 from insightface.app import FaceAnalysis
 

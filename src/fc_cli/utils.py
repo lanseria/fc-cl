@@ -6,7 +6,6 @@ import json
 
 import cv2
 import numpy as np
-from PIL import Image
 from rich.table import Table
 from rich.console import Console
 
